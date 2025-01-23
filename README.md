@@ -5,6 +5,10 @@
  ![ingame](https://github.com/user-attachments/assets/b87ce5fd-6e93-46e7-89b1-0d75b6e0123d)
 ![bagingame](https://github.com/user-attachments/assets/385c4722-46af-4685-892b-028c73c81623)
 
+my version of the bag
+https://github.com/Wonkys-World-2024/devbag-for-my-edit-of-keep-bags
+
+
 Original source of the backpack i used for the devbag
 https://www.lcpdfr.com/downloads/gta5mods/character/41637-release-eup-backpack/
 
@@ -167,6 +171,6 @@ Config.silentMode = true
 Config.manualDatabaseCheck = false
 
 Step 5
-Add the Bag file or use the downlaod link for the original (Link at the top of the read me)
+Add the Bag file using my link or use the downlaod link for the original (Link at the top of the read me)
 
 
