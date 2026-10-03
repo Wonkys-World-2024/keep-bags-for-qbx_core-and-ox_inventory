@@ -2,6 +2,7 @@
  Bag script made by SWKeep https://github.com/swkeep
  Edited by me (includes a dev bag)
 
+IVE RE UPLOADED IN THE ZIP FILE FOR EASE BUT EVERYTHING WORKS PERFECTLY dont forget you need keep-harmony on tebex 
  ![ingame](https://github.com/user-attachments/assets/b87ce5fd-6e93-46e7-89b1-0d75b6e0123d)
 ![bagingame](https://github.com/user-attachments/assets/385c4722-46af-4685-892b-028c73c81623)
 
